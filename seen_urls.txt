@@ -1,0 +1,6 @@
+ai.meta.com/research/brain2qwerty-v2-non-invasive-brain-recordings|2026-06-29
+github.com/tirth8205/code-review-graph|2026-06-29
+openai.com/index/mapping-ai-jobs-transition-eu|2026-06-29
+github.com/headroomlabs-ai/headroom|2026-06-29
+arxiv:2606.27009|2026-06-29
+arxiv:2606.28187|2026-06-29
