@@ -1,0 +1,5 @@
+google-genai
+apscheduler
+httpx
+python-dotenv
+pyyaml

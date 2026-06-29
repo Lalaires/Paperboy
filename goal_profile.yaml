@@ -1,0 +1,19 @@
+role: "AI Engineer"
+
+current_problems:
+  - "Building end-to-end agentic systems"
+  - "Innovative AI ideas"
+
+interests:
+  - "Cutting-edge machine learning models"
+  - "Tool use"
+  - "Multimodal AI"
+  - "LLM"
+  - "Multi-agent systems"
+
+ignore:
+  - "Autonomous vehicles"
+  - "Gaming AI"
+
+delivery_time: "10:30"
+timezone: "Asia/Taipei"
