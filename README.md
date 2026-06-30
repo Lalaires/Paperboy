@@ -2,8 +2,6 @@
 
 A personal AI research agent that runs daily, scans curated sources for relevant AI developments, and delivers a tiered briefing to Discord — automatically, every morning.
 
-Built for an AI Engineer focused on agentic systems, tool use, and multi-agent architectures.
-
 ---
 
 ## How It Works
