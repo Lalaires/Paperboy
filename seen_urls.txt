@@ -4,3 +4,9 @@ openai.com/index/mapping-ai-jobs-transition-eu|2026-06-29
 github.com/headroomlabs-ai/headroom|2026-06-29
 arxiv:2606.27009|2026-06-29
 arxiv:2606.28187|2026-06-29
+arxiv:2606.26356|2026-06-30
+arxiv:2606.28781|2026-06-30
+github.com/calesthio/openmontage|2026-06-30
+github.com/panniantong/agent-reach|2026-06-30
+arxiv:2606.30616|2026-06-30
+arxiv:2606.29537|2026-06-30
