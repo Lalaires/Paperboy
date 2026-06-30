@@ -376,9 +376,10 @@ worth_knowing format (3 fields):
 **For you:** [one sentence]
 
 After all entries:
-- If 2+ items share a concrete theme: write a synthesis of at most two
-  sentences naming the theme and what it means. Otherwise omit the
-  synthesis section entirely. Never exceed two sentences.
+- If 2+ items share a concrete theme: write a section headed exactly
+  "## 🔗 Today's Theme" followed by at most two sentences naming the
+  theme and what it means. Otherwise omit the section entirely.
+  Never exceed two sentences.
 
 Before finalizing, silently verify internally that every required source
 was checked (or noted as having nothing new) — this is for your own
