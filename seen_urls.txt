@@ -10,3 +10,9 @@ github.com/calesthio/openmontage|2026-06-30
 github.com/panniantong/agent-reach|2026-06-30
 arxiv:2606.30616|2026-06-30
 arxiv:2606.29537|2026-06-30
+anthropic.com/news/introducing-claude-sonnet-5|2026-07-01
+arxiv:2606.31498|2026-07-01
+arxiv:2606.29823|2026-07-01
+arxiv:2606.28958|2026-07-01
+arxiv:2606.30306|2026-07-01
+arxiv:2606.28733|2026-07-01
