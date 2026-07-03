@@ -1,6 +1,8 @@
 # Daily AI Research Briefing Agent
 
-A personal AI research agent that runs daily, scans curated sources for relevant AI developments, and delivers a tiered briefing to Discord — automatically, every morning.
+Most AI news aggregators are generic. This agent is personal — it knows your role, your current problems, and what you want to ignore. Instead of skimming 10 tabs every morning, you get a focused briefing in Discord with exactly what matters to you, grounded in full paper and post content rather than headlines.
+
+**Outcome:** a daily Discord message with 3–6 curated items, each with a summary, key finding, and a "what to do with this" line — plus a synthesis of any cross-cutting theme. Runs fully automatically, costs a few cents per day.
 
 ---
 
@@ -85,23 +87,30 @@ GEMINI_API_KEY=your_key_here
 DISCORD_WEBHOOK_URL=your_webhook_url_here
 ```
 
-> **Note:** Gemini's Google Search and URL Context tools require a billing-enabled Google Cloud project, even within the free quota.
+> **Cost:** Gemini's Google Search and URL Context tools require a billing-enabled Google Cloud project. At typical usage the agent costs a few cents per run. The GitHub Actions workflow itself is free.
 
 ### 3. Customize your goal profile
 
-Edit `goal_profile.yaml` to match your role and interests. The agent scores all candidates against this profile.
+Edit `goal_profile.yaml` — this is the core personalization. The agent scores every candidate against your `current_problems` and `interests`, and drops anything in the `ignore` list before even evaluating it.
 
 ```yaml
 role: "AI Engineer"
+
 current_problems:
   - "Building end-to-end agentic systems"
-  - "Implementable innovative AI ideas"
+  - "Innovative AI ideas"
+
 interests:
   - "Cutting-edge machine learning models"
   - "Tool use"
   - "Multimodal AI"
   - "LLM"
   - "Multi-agent systems"
+
+ignore:
+  - "Autonomous vehicles"
+  - "Gaming AI"
+
 delivery_time: "06:00"
 timezone: "Asia/Taipei"
 ```
@@ -111,6 +120,8 @@ timezone: "Asia/Taipei"
 ```bash
 python run_now.py
 ```
+
+`seen_urls.txt` doesn't exist on a fresh clone — the agent creates it automatically on the first run.
 
 ### 5. Run on a local schedule
 
