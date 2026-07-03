@@ -22,3 +22,9 @@ arxiv:2606.08671|2026-07-02
 arxiv:2606.30911|2026-07-02
 github.com/tencentcloud/cubesandbox|2026-07-02
 github.com/browser-use/video-use|2026-07-02
+github.com/usestrix/strix|2026-07-03
+arxiv:2607.01071|2026-07-03
+github.com/msitarzewski/agency-agents|2026-07-03
+arxiv:2607.01308|2026-07-03
+github.com/juliusbrussee/caveman|2026-07-03
+arxiv:2607.02512|2026-07-03
