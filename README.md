@@ -1,10 +1,10 @@
-# Paperboy — Daily AI Briefing Agent
+# Paperboy: Daily AI Briefing Agent
 
-Most AI news aggregators are generic. This agent is personal — it knows your role, your current problems, and what you want to ignore. Instead of skimming 10 tabs every morning, you get a focused briefing in Discord with exactly what matters to you, grounded in full paper and post content rather than headlines.
+Most AI news aggregators are generic. This agent is personal: it knows your role, your current problems, and what you want to ignore. Instead of skimming 10 tabs every morning, you get a focused briefing in Discord with exactly what matters to you, grounded in full paper and post content rather than headlines.
 
-Built on the principle of loop engineering — rather than prompting an AI agent every morning, you design the system that does it. The trigger, the goal, and the termination condition are all defined once; the agent runs itself.
+Built on the principle of loop engineering: rather than prompting an AI agent every morning, you design the system that does it. The trigger, the goal, and the termination condition are all defined once; the agent runs itself.
 
-**Outcome:** a daily Discord message with 3–6 curated items, each with a summary, key finding, and a "what to do with this" line — plus a synthesis of any cross-cutting theme. Runs fully automatically, costs a few cents per day.
+**Outcome:** a daily Discord message with 3–6 curated items, each with a summary, key finding, and a "what to do with this" line, plus a synthesis of any cross-cutting theme. Runs fully automatically, costs a few cents per day.
 
 ---
 
@@ -12,10 +12,10 @@ Built on the principle of loop engineering — rather than prompting an AI agent
 
 The agent runs a 4-pass loop each day:
 
-1. **Collect** — Pre-fetches papers from HuggingFace and arXiv cs.MA via their official APIs, pulls OpenAI and DeepMind blog posts from RSS, then uses Gemini's Google Search tool to scan GitHub Trending, Anthropic research, Meta AI, and Microsoft AI news.
-2. **Evaluate** — Scores each candidate 0–10 against your goal profile using listing snippets only. Assigns preliminary tiers (`must_read` / `worth_knowing` / `drop`).
-3. **Deep Read** — Fetches full content for shortlisted items using Gemini's URL Context tool. Re-scores based on actual content.
-4. **Synthesise** — Ranks all non-dropped items globally, applies tier caps, and produces the final briefing.
+1. **Collect:** Pre-fetches papers from HuggingFace and arXiv cs.MA via their official APIs, pulls OpenAI and DeepMind blog posts from RSS, then uses Gemini's Google Search tool to scan GitHub Trending, Anthropic research, Meta AI, and Microsoft AI news.
+2. **Evaluate:** Scores each candidate 0–10 against your goal profile using listing snippets only. Assigns preliminary tiers (`must_read` / `worth_knowing` / `drop`).
+3. **Deep Read:** Fetches full content for shortlisted items using Gemini's URL Context tool. Re-scores based on actual content.
+4. **Synthesise:** Ranks all non-dropped items globally, applies tier caps, and produces the final briefing.
 
 The output is delivered to Discord via webhook in chunked messages.
 
@@ -28,9 +28,9 @@ The output is delivered to Discord via webhook in chunked messages.
 
 **[Title]**
 `[source domain] · [popularity] · [date] · [url]`
-**Summary:** one sentence — what it is
-**Details:** one sentence — the specific finding or method
-**For you:** one sentence — what to do or think differently about
+**Summary:** one sentence: what it is
+**Details:** one sentence: the specific finding or method
+**For you:** one sentence: what to do or think differently about
 
 ## 🟡 WORTH KNOWING
 
@@ -44,7 +44,7 @@ The output is delivered to Discord via webhook in chunked messages.
 [One or two sentences on a concrete theme connecting 2+ items, if one exists.]
 ```
 
-Tier caps: max 3 must_read, max 3 worth_knowing. No filler — marginal items are dropped entirely.
+Tier caps: max 3 must_read, max 3 worth_knowing. No filler; marginal items are dropped entirely.
 
 ---
 
@@ -52,8 +52,8 @@ Tier caps: max 3 must_read, max 3 worth_knowing. No filler — marginal items ar
 
 | Source | Method |
 |---|---|
-| HuggingFace daily papers | HF public API — top 40 by upvotes |
-| arXiv cs.MA | arXiv Atom API — 20 most recent |
+| HuggingFace daily papers | HF public API, top 40 by upvotes |
+| arXiv cs.MA | arXiv Atom API, 20 most recent |
 | OpenAI blog | RSS feed |
 | DeepMind blog | RSS feed |
 | GitHub Trending | Gemini Google Search |
@@ -125,7 +125,7 @@ timezone: "Asia/Taipei"
 python run_now.py
 ```
 
-`seen_urls.txt` doesn't exist on a fresh clone — the agent creates it automatically on the first run.
+`seen_urls.txt` doesn't exist on a fresh clone; the agent creates it automatically on the first run.
 
 ### 5. Run on a local schedule
 
