@@ -44,7 +44,7 @@ The output is delivered to Discord via webhook in chunked messages.
 [One or two sentences on a concrete theme connecting 2+ items, if one exists.]
 ```
 
-Tier caps: max 3 must_read, max 3 worth_knowing. No filler; marginal items are dropped entirely.
+Tier caps: max 3 must_read, max 3 worth_knowing. No filler, marginal items are dropped entirely.
 
 ---
 
@@ -125,7 +125,7 @@ timezone: "Asia/Taipei"
 python run_now.py
 ```
 
-`seen_urls.txt` doesn't exist on a fresh clone; the agent creates it automatically on the first run.
+`seen_urls.txt` doesn't exist on a fresh clone, the agent creates it automatically on the first run.
 
 ### 5. Run on a local schedule
 
