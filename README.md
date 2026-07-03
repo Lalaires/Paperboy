@@ -59,6 +59,8 @@ Tier caps: max 3 must_read, max 3 worth_knowing. No filler — marginal items ar
 | Meta AI research | Gemini Google Search |
 | Microsoft AI news | Gemini Google Search |
 
+> On Saturdays, the agent automatically widens its window: HuggingFace papers look back 7 days, GitHub Trending switches to weekly, and blog posts cover the past 7 days instead of 24 hours. This catches anything that may have been missed or published later in the week.
+
 ---
 
 ## Deduplication
