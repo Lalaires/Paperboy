@@ -28,3 +28,9 @@ github.com/msitarzewski/agency-agents|2026-07-03
 arxiv:2607.01308|2026-07-03
 github.com/juliusbrussee/caveman|2026-07-03
 arxiv:2607.02512|2026-07-03
+github.com/safishamsi/graphify|2026-07-03
+arxiv:2607.02507|2026-07-03
+arxiv:2607.01647|2026-07-03
+arxiv:2606.31551|2026-07-03
+github.com/langchain-ai/openwiki|2026-07-03
+arxiv:2607.01874|2026-07-03
