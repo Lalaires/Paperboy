@@ -1,8 +1,8 @@
 # Paperboy: Daily AI Briefing Agent
 
-Most AI news aggregators are generic. This agent is personal: it knows your role, your current problems, and what you want to ignore. Instead of skimming 10 tabs every morning, you get a focused briefing in Discord with exactly what matters to you, grounded in full paper and post content rather than headlines.
+Most AI news aggregators are generic. This agent is personal, it knows your role, your current problems, and what you want to ignore. Instead of skimming 10 tabs every morning, you get a focused briefing in Discord with exactly what matters to you, grounded in full paper and post content rather than headlines.
 
-Built on the principle of loop engineering: rather than prompting an AI agent every morning, you design the system that does it. The trigger, the goal, and the termination condition are all defined once; the agent runs itself.
+Built on the principle of loop engineering, rather than prompting an AI agent every morning, you design the system that does it. The trigger, the goal, and the termination condition are all defined once, the agent runs itself.
 
 **Outcome:** a daily Discord message with 3–6 curated items, each with a summary, key finding, and a "what to do with this" line, plus a synthesis of any cross-cutting theme. Runs fully automatically, costs a few cents per day.
 
