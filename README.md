@@ -95,7 +95,7 @@ DISCORD_WEBHOOK_URL=your_webhook_url_here
 
 ### 3. Customize your goal profile
 
-Edit `goal_profile.yaml` — this is the core personalization. The agent scores every candidate against your `current_problems` and `interests`, and drops anything in the `ignore` list before even evaluating it.
+Edit `goal_profile.yaml`, this is the core personalization. The agent scores every candidate against your `current_problems` and `interests`, and drops anything in the `ignore` list before even evaluating it.
 
 ```yaml
 role: "AI Engineer"
