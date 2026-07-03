@@ -78,11 +78,11 @@ pip install -r requirements.txt
 
 ### 2. Configure environment
 
+Create a `.env` file in the project root:
+
 ```bash
-cp .env.example .env
-# Fill in your keys:
-# GEMINI_API_KEY=...
-# DISCORD_WEBHOOK_URL=...
+GEMINI_API_KEY=your_key_here
+DISCORD_WEBHOOK_URL=your_webhook_url_here
 ```
 
 > **Note:** Gemini's Google Search and URL Context tools require a billing-enabled Google Cloud project, even within the free quota.
@@ -102,13 +102,25 @@ interests:
   - "Multimodal AI"
   - "LLM"
   - "Multi-agent systems"
+delivery_time: "06:00"
+timezone: "Asia/Taipei"
 ```
 
-### 4. Run manually
+### 4. Run once manually
 
 ```bash
 python run_now.py
 ```
+
+### 5. Run on a local schedule
+
+If you prefer to run the agent on your own machine instead of GitHub Actions, use the included scheduler:
+
+```bash
+python scheduler.py
+```
+
+It reads `delivery_time` and `timezone` from `goal_profile.yaml` and runs the full pipeline at that time every day. Keep the process running (e.g. in a tmux session or as a system service). Press `Ctrl+C` to stop.
 
 ---
 
@@ -123,6 +135,8 @@ Required repository secrets:
 After each run, the workflow commits `seen_urls.txt` back to the repo with `[skip ci]` to persist deduplication state across runs.
 
 To trigger a run manually: Actions → Daily Research Briefing → Run workflow.
+
+> **GitHub Actions cron delay:** GitHub's scheduled workflows can fire anywhere from a few minutes to a few hours late under high load, especially on the free tier. If exact delivery time matters, set your cron earlier than needed, or use `scheduler.py` locally for precise timing.
 
 ---
 
