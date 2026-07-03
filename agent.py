@@ -415,8 +415,8 @@ def run_agent() -> str:
     is_saturday = today.weekday() == 5
     blog_days_back = 7 if is_saturday else 1
 
-    hf_papers = format_hf_papers(fetch_hf_daily_papers())
-    arxiv_papers = format_arxiv_papers(fetch_arxiv_cs_ma())
+    hf_papers = format_hf_papers(fetch_hf_daily_papers(limit=40))
+    arxiv_papers = format_arxiv_papers(fetch_arxiv_cs_ma(limit=20))
     openai_blog = format_blog_items(
         "openai.com/research", fetch_rss_items("https://openai.com/news/rss.xml", blog_days_back)
     )
