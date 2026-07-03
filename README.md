@@ -1,4 +1,4 @@
-# Daily AI Research Briefing Agent
+# Paperboy — Daily AI Briefing Agent
 
 Most AI news aggregators are generic. This agent is personal — it knows your role, your current problems, and what you want to ignore. Instead of skimming 10 tabs every morning, you get a focused briefing in Discord with exactly what matters to you, grounded in full paper and post content rather than headlines.
 
@@ -74,8 +74,8 @@ Seen URLs are tracked in `seen_urls.txt` (committed back to the repo after each 
 ### 1. Clone and install dependencies
 
 ```bash
-git clone https://github.com/Lalaires/Daily-AI-brief-agent.git
-cd Daily-AI-brief-agent
+git clone https://github.com/Lalaires/paperboy.git
+cd paperboy
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 ```
