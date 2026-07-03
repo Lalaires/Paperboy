@@ -48,8 +48,8 @@ Tier caps: max 3 must_read, max 3 worth_knowing. No filler — marginal items ar
 
 | Source | Method |
 |---|---|
-| HuggingFace daily papers | HF public API — top 30 by upvotes |
-| arXiv cs.MA | arXiv Atom API — 50 most recent |
+| HuggingFace daily papers | HF public API — top 40 by upvotes |
+| arXiv cs.MA | arXiv Atom API — 20 most recent |
 | OpenAI blog | RSS feed |
 | DeepMind blog | RSS feed |
 | GitHub Trending | Gemini Google Search |
@@ -114,7 +114,7 @@ python run_now.py
 
 ## Automated Deployment (GitHub Actions)
 
-The workflow at `.github/workflows/daily.yml` runs every day at **10:30 AM Asia/Taipei** (02:30 UTC).
+The workflow at `.github/workflows/daily.yml` runs every day at **6:00 AM Asia/Taipei** (22:00 UTC previous day).
 
 Required repository secrets:
 - `GEMINI_API_KEY`
@@ -132,6 +132,7 @@ To trigger a run manually: Actions → Daily Research Briefing → Run workflow.
 agent.py          # 4-pass agent loop, pre-fetch functions, dedup logic
 deliver.py        # Discord webhook delivery with chunking
 run_now.py        # Entry point: run agent then deliver
+scheduler.py      # Local scheduler (alternative to GitHub Actions)
 goal_profile.yaml # Your role, problems, and interests
 seen_urls.txt     # Dedup state (auto-managed, committed by CI)
 requirements.txt

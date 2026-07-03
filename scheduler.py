@@ -25,7 +25,7 @@ def main():
     with open("goal_profile.yaml") as f:
         profile = yaml.safe_load(f)
 
-    delivery_time = profile.get("delivery_time", "10:30")
+    delivery_time = profile.get("delivery_time", "06:00")
     timezone = profile.get("timezone", "Asia/Taipei")
     hour, minute = map(int, delivery_time.split(":"))
 
