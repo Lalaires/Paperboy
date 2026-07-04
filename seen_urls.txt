@@ -34,3 +34,9 @@ arxiv:2607.01647|2026-07-03
 arxiv:2606.31551|2026-07-03
 github.com/langchain-ai/openwiki|2026-07-03
 arxiv:2607.01874|2026-07-03
+arxiv:2607.02453|2026-07-04
+github.com/deusdata/codebase-memory-mcp|2026-07-04
+github.com/google-labs-code/design.md|2026-07-04
+ai.meta.com/research/publications/interpreting-physics-in-video-world-models|2026-07-04
+github.com/facebook/astryx|2026-07-04
+arxiv:2606.30534|2026-07-04
