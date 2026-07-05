@@ -40,3 +40,7 @@ github.com/google-labs-code/design.md|2026-07-04
 ai.meta.com/research/publications/interpreting-physics-in-video-world-models|2026-07-04
 github.com/facebook/astryx|2026-07-04
 arxiv:2606.30534|2026-07-04
+github.com/stevenkozeniesky02/agentsid-scanner|2026-07-05
+arxiv:2607.00685|2026-07-05
+arxiv:2607.00272|2026-07-05
+github.com/anil-matcha/open-claude-tag|2026-07-05
