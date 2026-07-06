@@ -44,3 +44,8 @@ github.com/stevenkozeniesky02/agentsid-scanner|2026-07-05
 arxiv:2607.00685|2026-07-05
 arxiv:2607.00272|2026-07-05
 github.com/anil-matcha/open-claude-tag|2026-07-05
+arxiv:2606.29526|2026-07-06
+github.com/gastownhall/gastown|2026-07-06
+arxiv:2607.01936|2026-07-06
+anthropic.com/research/verbalizable-representations-form-a-global-workspace-in-language-models|2026-07-06
+github.com/esengine/deepseek-reasonix|2026-07-06
