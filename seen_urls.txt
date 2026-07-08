@@ -55,3 +55,9 @@ arxiv:2607.04425|2026-07-07
 ai.meta.com/blog/introducing-muse-image-and-muse-video|2026-07-07
 arxiv:2607.02942|2026-07-07
 arxiv:2607.00597|2026-07-07
+arxiv:2607.03451|2026-07-08
+github.com/wonderwhy-er/desktopcommandermcp|2026-07-08
+arxiv:2607.05844|2026-07-08
+arxiv:2607.05483|2026-07-08
+arxiv:2607.02770|2026-07-08
+github.com/bradautomates/claude-video|2026-07-08
