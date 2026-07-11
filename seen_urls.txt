@@ -1,9 +1,3 @@
-arxiv:2606.26356|2026-06-30
-arxiv:2606.28781|2026-06-30
-github.com/calesthio/openmontage|2026-06-30
-github.com/panniantong/agent-reach|2026-06-30
-arxiv:2606.30616|2026-06-30
-arxiv:2606.29537|2026-06-30
 anthropic.com/news/introducing-claude-sonnet-5|2026-07-01
 arxiv:2606.31498|2026-07-01
 arxiv:2606.29823|2026-07-01
@@ -67,3 +61,9 @@ arxiv:2607.08662|2026-07-10
 arxiv:2607.08716|2026-07-10
 github.com/addyosmani/agent-skills|2026-07-10
 arxiv:2607.07508|2026-07-10
+arxiv:2607.07989|2026-07-11
+arxiv:2607.07666|2026-07-11
+arxiv:2607.05511|2026-07-11
+github.com/stablyai/orca|2026-07-11
+github.com/iofficeai/officecli|2026-07-11
+github.com/microsoft/skillopt|2026-07-11
