@@ -1,9 +1,3 @@
-arxiv:2607.01224|2026-07-02
-arxiv:2606.28436|2026-07-02
-arxiv:2606.08671|2026-07-02
-arxiv:2606.30911|2026-07-02
-github.com/tencentcloud/cubesandbox|2026-07-02
-github.com/browser-use/video-use|2026-07-02
 github.com/usestrix/strix|2026-07-03
 arxiv:2607.01071|2026-07-03
 github.com/msitarzewski/agency-agents|2026-07-03
@@ -66,3 +60,9 @@ github.com/google-labs-code/stitch-skills|2026-07-12
 github.com/dicklesworthstone/destructive_command_guard|2026-07-12
 arxiv:2607.07689|2026-07-12
 arxiv:2607.07368|2026-07-12
+arxiv:2607.09493|2026-07-13
+arxiv:2607.09603|2026-07-13
+arxiv:2607.02689|2026-07-13
+arxiv:2607.09415|2026-07-13
+github.com/hkuds/vibe-trading|2026-07-13
+arxiv:2607.08964|2026-07-13
