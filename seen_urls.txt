@@ -1,15 +1,3 @@
-github.com/usestrix/strix|2026-07-03
-arxiv:2607.01071|2026-07-03
-github.com/msitarzewski/agency-agents|2026-07-03
-arxiv:2607.01308|2026-07-03
-github.com/juliusbrussee/caveman|2026-07-03
-arxiv:2607.02512|2026-07-03
-github.com/safishamsi/graphify|2026-07-03
-arxiv:2607.02507|2026-07-03
-arxiv:2607.01647|2026-07-03
-arxiv:2606.31551|2026-07-03
-github.com/langchain-ai/openwiki|2026-07-03
-arxiv:2607.01874|2026-07-03
 arxiv:2607.02453|2026-07-04
 github.com/deusdata/codebase-memory-mcp|2026-07-04
 github.com/google-labs-code/design.md|2026-07-04
@@ -66,3 +54,9 @@ arxiv:2607.02689|2026-07-13
 arxiv:2607.09415|2026-07-13
 github.com/hkuds/vibe-trading|2026-07-13
 arxiv:2607.08964|2026-07-13
+arxiv:2607.11751|2026-07-14
+arxiv:2607.11487|2026-07-14
+arxiv:2607.11288|2026-07-14
+arxiv:2607.10350|2026-07-14
+arxiv:2607.11388|2026-07-14
+github.com/shanraisshan/claude-code-best-practice|2026-07-14
