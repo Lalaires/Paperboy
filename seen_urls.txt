@@ -1,9 +1,3 @@
-arxiv:2607.02453|2026-07-04
-github.com/deusdata/codebase-memory-mcp|2026-07-04
-github.com/google-labs-code/design.md|2026-07-04
-ai.meta.com/research/publications/interpreting-physics-in-video-world-models|2026-07-04
-github.com/facebook/astryx|2026-07-04
-arxiv:2606.30534|2026-07-04
 github.com/stevenkozeniesky02/agentsid-scanner|2026-07-05
 arxiv:2607.00685|2026-07-05
 arxiv:2607.00272|2026-07-05
@@ -60,3 +54,9 @@ arxiv:2607.11288|2026-07-14
 arxiv:2607.10350|2026-07-14
 arxiv:2607.11388|2026-07-14
 github.com/shanraisshan/claude-code-best-practice|2026-07-14
+arxiv:2607.12463|2026-07-15
+openai.com/index/unlocking-self-improvement-gpt-red|2026-07-15
+arxiv:2607.05394|2026-07-15
+arxiv:2607.12790|2026-07-15
+arxiv:2607.11250|2026-07-15
+github.com/tencentcloud/cubesandbox|2026-07-15
