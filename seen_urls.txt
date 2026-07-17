@@ -1,8 +1,3 @@
-arxiv:2606.29526|2026-07-06
-github.com/gastownhall/gastown|2026-07-06
-arxiv:2607.01936|2026-07-06
-anthropic.com/research/verbalizable-representations-form-a-global-workspace-in-language-models|2026-07-06
-github.com/esengine/deepseek-reasonix|2026-07-06
 arxiv:2607.04439|2026-07-07
 github.com/othmanadi/planning-with-files|2026-07-07
 arxiv:2607.04425|2026-07-07
@@ -62,3 +57,9 @@ arxiv:2607.12747|2026-07-16
 arxiv:2607.13359|2026-07-16
 arxiv:2607.12395|2026-07-16
 arxiv:2607.13465|2026-07-16
+github.com/facebook/astryx|2026-07-17
+arxiv:2607.15257|2026-07-17
+github.com/tirth8205/code-review-graph|2026-07-17
+openai.com/index/a-scorecard-for-the-ai-age|2026-07-17
+arxiv:2607.14777|2026-07-17
+arxiv:2607.14275|2026-07-17
