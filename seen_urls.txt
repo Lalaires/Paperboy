@@ -1,9 +1,3 @@
-arxiv:2607.04439|2026-07-07
-github.com/othmanadi/planning-with-files|2026-07-07
-arxiv:2607.04425|2026-07-07
-ai.meta.com/blog/introducing-muse-image-and-muse-video|2026-07-07
-arxiv:2607.02942|2026-07-07
-arxiv:2607.00597|2026-07-07
 arxiv:2607.03451|2026-07-08
 github.com/wonderwhy-er/desktopcommandermcp|2026-07-08
 arxiv:2607.05844|2026-07-08
@@ -63,3 +57,9 @@ github.com/tirth8205/code-review-graph|2026-07-17
 openai.com/index/a-scorecard-for-the-ai-age|2026-07-17
 arxiv:2607.14777|2026-07-17
 arxiv:2607.14275|2026-07-17
+github.com/mattpocock/skills|2026-07-18
+arxiv:2607.14713|2026-07-18
+arxiv:2607.14611|2026-07-18
+arxiv:2607.12625|2026-07-18
+arxiv:2607.13104|2026-07-18
+arxiv:2607.14952|2026-07-18
