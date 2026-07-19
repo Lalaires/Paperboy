@@ -1,9 +1,3 @@
-arxiv:2607.03451|2026-07-08
-github.com/wonderwhy-er/desktopcommandermcp|2026-07-08
-arxiv:2607.05844|2026-07-08
-arxiv:2607.05483|2026-07-08
-arxiv:2607.02770|2026-07-08
-github.com/bradautomates/claude-video|2026-07-08
 anthropic.com/news/an-off-switch-for-dual-use-knowledge-in-ai-models|2026-07-09
 arxiv:2607.07052|2026-07-09
 arxiv:2607.07321|2026-07-09
@@ -63,3 +57,8 @@ arxiv:2607.14611|2026-07-18
 arxiv:2607.12625|2026-07-18
 arxiv:2607.13104|2026-07-18
 arxiv:2607.14952|2026-07-18
+github.com/kvcache-ai/ktransformers|2026-07-19
+github.com/saravananjaichandar/world-model-mcp|2026-07-19
+arxiv:2607.14256|2026-07-19
+github.com/knockoutez/wigolo|2026-07-19
+github.com/jamiepine/voicebox|2026-07-19
