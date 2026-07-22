@@ -1,9 +1,3 @@
-arxiv:2607.07989|2026-07-11
-arxiv:2607.07666|2026-07-11
-arxiv:2607.05511|2026-07-11
-github.com/stablyai/orca|2026-07-11
-github.com/iofficeai/officecli|2026-07-11
-github.com/microsoft/skillopt|2026-07-11
 arxiv:2607.07097|2026-07-12
 github.com/google-labs-code/stitch-skills|2026-07-12
 github.com/dicklesworthstone/destructive_command_guard|2026-07-12
@@ -62,3 +56,9 @@ arxiv:2607.18213|2026-07-21
 arxiv:2607.17780|2026-07-21
 arxiv:2607.18102|2026-07-21
 deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber|2026-07-21
+arxiv:2607.19267|2026-07-22
+openai.com/index/introducing-openai-presence|2026-07-22
+arxiv:2607.18754|2026-07-22
+arxiv:2607.16900|2026-07-22
+github.com/diegosouzapw/omniroute|2026-07-22
+arxiv:2607.16617|2026-07-22
