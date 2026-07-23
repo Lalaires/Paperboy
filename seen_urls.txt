@@ -1,8 +1,3 @@
-arxiv:2607.07097|2026-07-12
-github.com/google-labs-code/stitch-skills|2026-07-12
-github.com/dicklesworthstone/destructive_command_guard|2026-07-12
-arxiv:2607.07689|2026-07-12
-arxiv:2607.07368|2026-07-12
 arxiv:2607.09493|2026-07-13
 arxiv:2607.09603|2026-07-13
 arxiv:2607.02689|2026-07-13
@@ -62,3 +57,8 @@ arxiv:2607.18754|2026-07-22
 arxiv:2607.16900|2026-07-22
 github.com/diegosouzapw/omniroute|2026-07-22
 arxiv:2607.16617|2026-07-22
+arxiv:2607.19865|2026-07-23
+github.com/composiohq/awesome-claude-skills|2026-07-23
+arxiv:2607.19670|2026-07-23
+arxiv:2607.19592|2026-07-23
+arxiv:2607.19899|2026-07-23
