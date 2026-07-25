@@ -1,9 +1,3 @@
-arxiv:2607.11751|2026-07-14
-arxiv:2607.11487|2026-07-14
-arxiv:2607.11288|2026-07-14
-arxiv:2607.10350|2026-07-14
-arxiv:2607.11388|2026-07-14
-github.com/shanraisshan/claude-code-best-practice|2026-07-14
 arxiv:2607.12463|2026-07-15
 openai.com/index/unlocking-self-improvement-gpt-red|2026-07-15
 arxiv:2607.05394|2026-07-15
@@ -62,3 +56,8 @@ arxiv:2607.20709|2026-07-24
 arxiv:2607.21557|2026-07-24
 arxiv:2607.21461|2026-07-24
 github.com/craft-ai-agents/craft-agents-oss|2026-07-24
+github.com/graphify-labs/graphify|2026-07-25
+arxiv:2607.07820|2026-07-25
+github.com/deusdata/codebase-memory-mcp|2026-07-25
+github.com/langchain-ai/openwiki|2026-07-25
+arxiv:2607.11683|2026-07-25
