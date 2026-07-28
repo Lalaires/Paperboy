@@ -1,9 +1,3 @@
-github.com/facebook/astryx|2026-07-17
-arxiv:2607.15257|2026-07-17
-github.com/tirth8205/code-review-graph|2026-07-17
-openai.com/index/a-scorecard-for-the-ai-age|2026-07-17
-arxiv:2607.14777|2026-07-17
-arxiv:2607.14275|2026-07-17
 github.com/mattpocock/skills|2026-07-18
 arxiv:2607.14713|2026-07-18
 arxiv:2607.14611|2026-07-18
@@ -61,3 +55,9 @@ arxiv:2607.22465|2026-07-27
 arxiv:2607.22529|2026-07-27
 arxiv:2607.22448|2026-07-27
 github.com/jgravelle/jcodemunch-mcp|2026-07-27
+arxiv:2607.23884|2026-07-28
+arxiv:2607.24300|2026-07-28
+arxiv:2607.22917|2026-07-28
+github.com/stablyai/orca|2026-07-28
+openai.com/index/scientific-computing-agentic-ai|2026-07-28
+arxiv:2607.22798|2026-07-28
