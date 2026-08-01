@@ -1,9 +1,3 @@
-github.com/github/gh-aw|2026-07-21
-openai.com/index/hugging-face-model-evaluation-security-incident|2026-07-21
-arxiv:2607.18213|2026-07-21
-arxiv:2607.17780|2026-07-21
-arxiv:2607.18102|2026-07-21
-deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber|2026-07-21
 arxiv:2607.19267|2026-07-22
 openai.com/index/introducing-openai-presence|2026-07-22
 arxiv:2607.18754|2026-07-22
@@ -62,3 +56,9 @@ github.com/mixpeek/amux|2026-07-31
 arxiv:2607.26760|2026-07-31
 anthropic.com/news/investigating-three-real-world-incidents-in-our-cybersecurity-evaluations|2026-07-31
 github.com/affaan-m/ecc|2026-07-31
+arxiv:2607.27677|2026-08-01
+arxiv:2607.27484|2026-08-01
+arxiv:2607.28430|2026-08-01
+arxiv:2607.28568|2026-08-01
+blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai|2026-08-01
+arxiv:2607.28227|2026-08-01
