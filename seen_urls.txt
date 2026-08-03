@@ -1,8 +1,3 @@
-arxiv:2607.19865|2026-07-23
-github.com/composiohq/awesome-claude-skills|2026-07-23
-arxiv:2607.19670|2026-07-23
-arxiv:2607.19592|2026-07-23
-arxiv:2607.19899|2026-07-23
 github.com/nousresearch/hermes-agent|2026-07-24
 github.com/headroomlabs-ai/headroom|2026-07-24
 arxiv:2607.20709|2026-07-24
@@ -62,3 +57,9 @@ arxiv:2607.27574|2026-08-02
 arxiv:2607.27083|2026-08-02
 arxiv:2607.27429|2026-08-02
 arxiv:2607.27942|2026-08-02
+openai.com/index/continuous-voice-interaction-with-gpt-live|2026-08-03
+arxiv:2607.23802|2026-08-03
+arxiv:2607.27201|2026-08-03
+github.com/tencentcloud/tencentdb-agent-memory|2026-08-03
+github.com/can1357/oh-my-pi|2026-08-03
+arxiv:2607.29405|2026-08-03
