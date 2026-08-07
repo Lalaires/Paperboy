@@ -1,15 +1,3 @@
-anthropic.com/news/claude-opus-5|2026-07-26
-github.com/kenn-io/roborev|2026-07-26
-arxiv:2607.21495|2026-07-26
-arxiv:2607.21268|2026-07-26
-github.com/vstorm-co/pydantic-deepagents|2026-07-26
-arxiv:2607.21547|2026-07-26
-arxiv:2607.21503|2026-07-27
-github.com/virgiliojr94/book-to-skill|2026-07-27
-arxiv:2607.22465|2026-07-27
-arxiv:2607.22529|2026-07-27
-arxiv:2607.22448|2026-07-27
-github.com/jgravelle/jcodemunch-mcp|2026-07-27
 arxiv:2607.23884|2026-07-28
 arxiv:2607.24300|2026-07-28
 arxiv:2607.22917|2026-07-28
@@ -64,3 +52,9 @@ arxiv:2608.03509|2026-08-05
 arxiv:2608.02764|2026-08-05
 arxiv:2608.04007|2026-08-05
 github.com/yc-software/qm|2026-08-05
+arxiv:2608.03836|2026-08-07
+arxiv:2608.05102|2026-08-07
+arxiv:2608.05791|2026-08-07
+arxiv:2608.05013|2026-08-07
+github.com/obra/superpowers|2026-08-07
+github.com/tirth8205/code-review-graph|2026-08-07
