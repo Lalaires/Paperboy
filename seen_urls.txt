@@ -58,3 +58,9 @@ arxiv:2608.05791|2026-08-07
 arxiv:2608.05013|2026-08-07
 github.com/obra/superpowers|2026-08-07
 github.com/tirth8205/code-review-graph|2026-08-07
+github.com/addyosmani/agent-skills|2026-08-07
+arxiv:2608.06301|2026-08-07
+openai.com/index/responding-next-frontier-critical-cyber-capabilities|2026-08-07
+arxiv:2608.05987|2026-08-07
+arxiv:2608.05466|2026-08-07
+github.com/primeintellect-ai/prime-agent|2026-08-07
